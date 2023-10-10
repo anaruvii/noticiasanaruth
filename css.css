@@ -1,0 +1,24 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para as divisões com cores de fundo diferentes */
+.box {
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}

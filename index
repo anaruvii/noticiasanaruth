@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOTICIA</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box box">
+            <p>Quando acontecerá a onda de calor no Brasil?</p>
+            <p>Dia 17 de Setembro de  2023</p>
+
+              <p>onda de calor teve início no dia 17 de setembro de 2023 e deve se prolongar pela primeira semana da primavera. Algumas áreas pelo interior do Brasil, em parte do Centro-Oeste, do Norte, do Nordeste poderão conviver com temperaturas muito altas até quase o fim de setembro</p>
+        </div>
+        <div class="box box">
+            <img="https://4.bp.blogspot.com/-0OrvI3eQJGo/V5gCQi8RF_I/AAAAAAAABVA/-QxSdAK82ZMW1ZCWGQTTIVSxzFhdRECcQCLcB/s1600/mapa_boletim08.png
+        </div>
+        <div class="box box-c">
+            <h2>Aluno com Inicial C</h2>
+            <p>Conteúdo do aluno com inicial C vai aqui...</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
